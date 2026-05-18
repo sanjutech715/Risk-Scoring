@@ -1,0 +1,19 @@
+[
+  {
+    "document_id": "ACT-2025-001",
+    "summary": "Invoice ACT-2025-001 processed successfully. From strategic solutions ltd for usd 45,000.00 dated 2025-04-10. No significant issues detected. Payment can be queued for next processing cycle.",
+    "risk_score": 0.0587,
+    "overall_confidence": 0.8933,
+    "recommendation": "approve",
+    "risk_breakdown": {
+      "validation_risk": 0.08,
+      "confidence_risk": 0.0334,
+      "data_completeness_risk": 0.1,
+      "anomaly_risk": 0.0
+    },
+    "flags": [
+      "Validation warning: Signature field is slightly blurry"
+    ],
+    "processed_at": "2026-05-18T13:26:48.387667+00:00"
+  }
+]

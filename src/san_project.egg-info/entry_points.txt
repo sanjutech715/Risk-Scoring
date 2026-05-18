@@ -1,0 +1,2 @@
+[console_scripts]
+san-cli = src.interactive_cli:main

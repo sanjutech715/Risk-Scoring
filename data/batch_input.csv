@@ -1,0 +1,9 @@
+document_id,type,amount,vendor,date,currency,line_items,is_valid,errors,warnings,field_coverage,classification_confidence
+INV-2025-001,invoice,1250.50,Acme Corp,2025-03-15,USD,5,true,,,0.95,0.94
+INV-2025-002,invoice,45000.00,Strategic Solutions Ltd,2025-04-10,USD,12,true,,Signature field is slightly blurry,0.90,0.85
+INV-2025-003,invoice,750.25,Tech Supplies Inc,2025-03-20,USD,3,true,,,0.98,0.96
+REC-2025-001,receipt,125.99,Coffee Shop,2025-04-01,USD,1,true,,,0.85,0.88
+INV-2025-004,invoice,250000.00,Enterprise Systems,2025-04-05,USD,25,true,,Large transaction,0.92,0.91
+INV-2025-005,invoice,500.00,Office Depot,2025-03-25,USD,8,false,Missing vendor tax ID,Low quality scan,0.75,0.70
+CNT-2025-001,contract,1000000.00,Global Partners LLC,2025-04-12,USD,,true,,,0.88,0.82
+INV-2025-006,invoice,-50.00,Refunds Inc,2025-04-02,USD,1,true,,Negative amount - refund,0.90,0.89

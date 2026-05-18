@@ -1,0 +1,18 @@
+{
+  "document_id": "ACT-2025-001",
+  "standardized_data": {
+    "type": "invoice",
+    "amount": 45000.00,
+    "currency": "USD",
+    "vendor": "Strategic Solutions Ltd",
+    "date": "2025-04-10",
+    "line_items": 12
+  },
+  "validation_result": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": ["Signature field is slightly blurry"],
+    "field_coverage": 0.90
+  },
+  "classification_confidence": 0.85
+}
